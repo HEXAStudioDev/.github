@@ -4,11 +4,11 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-hexastudio.dev-6C8CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hexastudio.dev/en)
+[![Website](https://img.shields.io/badge/Website-hexastudio.dev-E1320E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hexastudio.dev/en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HEXA%20Studio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hexastudio2026)
 [![Facebook](https://img.shields.io/badge/Facebook-HEXA%20Studio-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61596203934435)
 [![TikTok](https://img.shields.io/badge/TikTok-@hexastudio.dev-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hexastudio.dev)
-[![Email](https://img.shields.io/badge/Email-info%40hexastudio.dev-38D3C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hexastudio.dev)
+[![Email](https://img.shields.io/badge/Email-info%40hexastudio.dev-E1320E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hexastudio.dev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201098267734)
 
 </div>
